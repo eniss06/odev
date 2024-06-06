@@ -1,0 +1,20 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "Pcat photo app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+ 
+  
+    "nodemon": "^2.0.22",
+    "prettier": "2.6.2"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.17.3",
+    "express-fileupload": "^1.5.0",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.3.0"
+  }
+}
